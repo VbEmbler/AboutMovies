@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "NetworkManager.getCountries(from:):NetworkManager.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "country">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "MovieTableViewCell.configure(with:):MovieTableViewCell.swift">
+      </ContextState>
+      <ContextState
+         contextName = "MovieListTableViewController.viewDidLoad():MovieListTableViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "releasesTest">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "closure #1 in MovieDetailsViewController.viewDidLoad():MovieDetailsViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "movieURL">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>

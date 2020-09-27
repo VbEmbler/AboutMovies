@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "NetworkManager.getReleasesFirstPage(year:month:):NetworkManager.swift">
+      </ContextState>
+      <ContextState
+         contextName = "RatingCollectionViewController.collectionView(_:didSelectItemAt:):RatingCollectionViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "topId">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "closure #1 in NetworkManager.getMovieBy(_:completionHandler:):NetworkManager.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "id">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "ReleasesTableViewController.prepare(for:sender:):ReleasesTableViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "movieDetailsVC.movieId ">
+            </PersistentString>
+            <PersistentString
+               value = "sender">
+            </PersistentString>
+            <PersistentString
+               value = "sender.text">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "releasesTableViewController.viewDidLoad():releasesTableViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "releases">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "releasesTableViewController.tableView(_:numberOfRowsInSection:):releasesTableViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "releases">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "MovieDetailsViewController.viewDidLoad():MovieDetailsViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "movieId">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "closure #1 in releasesTableViewController.viewDidLoad():releasesTableViewController.swift">
+      </ContextState>
+      <ContextState
+         contextName = "releasesTableViewController.viewDidAppear(_:):releasesTableViewController.swift">
+      </ContextState>
+      <ContextState
+         contextName = "RatingCollectionViewController.prepare(for:sender:):RatingCollectionViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "topId">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "RatingCollectionViewController.collectionView(_:cellForItemAt:):RatingCollectionViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "indexPath.item">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "closure #1 in closure #2 in ReleasesTableViewController.viewDidLoad():ReleasesTableViewController.swift">
+      </ContextState>
+      <ContextState
+         contextName = "ReleasesTableViewController.viewDidLoad():ReleasesTableViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "isTop">
+            </PersistentString>
+            <PersistentString
+               value = "topId">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "closure #1 in closure #1 in MovieDetailsViewController.viewDidLoad():MovieDetailsViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "movie">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "releasesTableViewController.tableView(_:cellForRowAt:):releasesTableViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "indexPath.row">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "MovieDetailsViewController.setupMovieImageView():MovieDetailsViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "movie?.data">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "closure #1 in MovieDetailsViewController.viewDidLoad():MovieDetailsViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "movieId">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "closure #2 in ReleasesTableViewController.viewDidLoad():ReleasesTableViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "topId">
+            </PersistentString>
+            <PersistentString
+               value = "pageCount">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
